@@ -2,5 +2,3 @@
 terraform-azurerm-aks
 
 
-
-sd
